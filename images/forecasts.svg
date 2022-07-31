@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>0924D5B7-CADA-4D61-BE75-6023939765FD@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="71.7418081%" y1="110.326763%" x2="24.4860224%" y2="-19.1159519%" id="linearGradient-1">
+            <stop stop-color="#F7B500" offset="0%"></stop>
+            <stop stop-color="#FDCD53" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-51.3%" y="-52.6%" width="202.6%" height="205.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="v1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-896.000000, -2388.000000)">
+            <g id="Stock-page" transform="translate(-89.000000, 1593.000000)">
+                <g id="Content" transform="translate(958.000000, 329.000000)">
+                    <g id="Bullet-points" transform="translate(0.000000, 252.000000)">
+                        <g id="Group-100" transform="translate(0.000000, 200.000000)">
+                            <g id="logo--stock-pages--perf-forecast" transform="translate(27.000000, 14.000000)">
+                                <circle id="Oval" fill="url(#linearGradient-1)" cx="28.7960894" cy="28.7960894" r="28.7960894"></circle>
+                                <g id="iconfinder_performance-clock-speed_353431" filter="url(#filter-2)" transform="translate(9.000000, 10.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M17,18.8720342 C17,20.599277 18.3269296,22 19.9615097,22 C21.1099722,22 22.0941552,21.3027933 22.5855,20.2940519 L22.5937139,20.3019389 L28,10 L18.5091304,16.1470917 L18.5180911,16.156556 C17.6167945,16.6936576 17,17.7016103 17,18.8720342 Z" id="Path"></path>
+                                    <path d="M33,4.73268658 C29.8156709,2.00326578 25.7012733,0.260493709 21,0 L21,4.6312554 C24.9177277,4.87561233 27.2260529,6.09586015 29.5437806,8 L33,4.73268658 Z" id="Path"></path>
+                                    <path d="M34.4796321,17 L39,17 C38.6966398,12.5911824 36.934297,8.96860387 34.1980477,6 L31,9.11042084 C32.9267881,11.2707415 34.1942932,14.0607882 34.4796321,17 Z" id="Path"></path>
+                                    <path d="M34.3418426,19.8516405 C33.8498435,27.4352598 27.4507664,33.4498284 19.6343922,33.4498284 C11.4974848,33.4498284 4.63421397,26.970384 4.63421397,18.9817993 C4.63421397,11.3769458 11.0363806,5.15458609 17.9877015,4.5706474 L17.9877015,0 C7.94690458,0.59076395 0,8.88572683 0,19.0015167 C0,29.499521 8.82045392,38 19.5123579,38 C29.8868182,38 38.5049115,29.7103457 39,19.8516405 L34.3418426,19.8516405 Z" id="Path"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

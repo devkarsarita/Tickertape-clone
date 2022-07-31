@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Atom/icons/representative/Tickertape-special</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.63423392,15.3252302 L16.8470587,15.3252302 C17.1445809,15.3252302 17.3880581,15.0840202 17.3880581,14.7892684 L17.3880581,9.04360538 C17.3880581,8.74867211 17.1445809,8.50746207 16.8470587,8.50746207 L3.70276047,8.50746207 C5.06649955,5.27154995 8.26797532,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 C8.20398035,21 4.95686081,18.6498792 3.63423392,15.3252302 Z M3.0339175,12.7868077 C3.01146201,12.5275279 3,12.2651025 3,12 C3,11.6777868 3.01693245,11.3595285 3.04995608,11.0460661 L6.14468733,11.0460661 L6.14468733,12.7868077 L3.0339175,12.7868077 Z M11.3729436,13.7935737 L13.5609408,10.0393001 L15.7487548,13.7935737 L11.3729436,13.7935737 Z M7.562681,10.0393001 L11.9384922,10.0393001 L9.750495,13.7935737 L7.562681,10.0393001 Z" id="path-1"></path>
+    </defs>
+    <g id="Atom/icons/representative/Tickertape-special" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#624bff" xlink:href="#path-1"></use>
+    </g>
+</svg>

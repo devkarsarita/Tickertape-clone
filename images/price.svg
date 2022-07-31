@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>3838339D-6A97-4E36-97CF-C125833D84A3@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-75.9%" y="-115.8%" width="251.7%" height="331.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="v1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-896.000000, -2188.000000)">
+            <g id="Stock-page" transform="translate(-89.000000, 1593.000000)">
+                <g id="Content" transform="translate(958.000000, 329.000000)">
+                    <g id="Bullet-points" transform="translate(0.000000, 252.000000)">
+                        <g id="Group-100">
+                            <g id="logo--stock-pages--price-trend" transform="translate(27.000000, 14.000000)">
+                                <circle id="Oval" fill="#F7B500" cx="28.7960894" cy="28.7960894" r="28.7960894"></circle>
+                                <g id="Group-36" filter="url(#filter-1)" transform="translate(12.500000, 19.462531)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                                    <polyline id="Line-6" points="2.0010999e-15 18.037469 9 8.03746904 16.5 14.037469 28.8388889 2.27373675e-13"></polyline>
+                                    <polyline id="Path-6" points="19 0.0374690433 28.8388889 -1.13686838e-13 28.8388889 10.537469"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

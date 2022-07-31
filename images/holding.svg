@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>314A4826-C979-4E1D-9F41-B47513ADF2BE@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="71.7418081%" y1="110.326763%" x2="24.4860224%" y2="-19.1159519%" id="linearGradient-1">
+            <stop stop-color="#F7B500" offset="0%"></stop>
+            <stop stop-color="#FDCD53" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-58.8%" y="-66.7%" width="217.6%" height="233.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="v1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-899.000000, -2286.000000)">
+            <g id="Stock-page" transform="translate(-89.000000, 1593.000000)">
+                <g id="Content" transform="translate(958.000000, 329.000000)">
+                    <g id="Bullet-points" transform="translate(0.000000, 252.000000)">
+                        <g id="Group-100" transform="translate(0.000000, 100.000000)">
+                            <g id="logo--stock-pages--holding-pattern" transform="translate(30.000000, 12.000000)">
+                                <circle id="Oval" fill="url(#linearGradient-1)" cx="30.5" cy="30.5" r="30.5"></circle>
+                                <g id="Group-39" filter="url(#filter-2)" transform="translate(14.000000, 15.000000)">
+                                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="17" height="15"></rect>
+                                    <rect id="Rectangle-Copy-2" fill="#FCDF90" x="17" y="0" width="17" height="15"></rect>
+                                    <rect id="Rectangle-Copy-4" fill="#FCDF90" x="0" y="15" width="17" height="15"></rect>
+                                    <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="17" y="15" width="17" height="15"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
